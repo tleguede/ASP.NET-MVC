@@ -5,31 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="78091ce5-0430-45c1-9fe7-4d5a6d49add6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.ASP.NET.MVC/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.ASP.NET.MVC/.idea/projectSettingsUpdater.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.ASP.NET.MVC/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ASP.NET.MVC/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ClientApp/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/ClientApp/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ClientApp/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/ClientApp/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ClientApp/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/ClientApp/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ClientApp/public/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/ClientApp/public/favicon.ico" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ClientApp/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/ClientApp/public/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ClientApp/public/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/ClientApp/public/manifest.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ClientApp/src/App.test.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ClientApp/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/ClientApp/src/App.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ClientApp/src/components/Counter.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ClientApp/src/components/FetchData.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ClientApp/src/components/Home.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ClientApp/src/components/Layout.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ClientApp/src/components/NavMenu.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ClientApp/src/components/NavMenu.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ClientApp/src/custom.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ClientApp/src/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/ClientApp/src/index.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ClientApp/src/registerServiceWorker.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ClientApp/src/store/Counter.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ClientApp/src/store/WeatherForecasts.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ClientApp/src/store/configureStore.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ClientApp/src/store/index.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ClientApp/tsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/ClientApp/tsconfig.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASP.NET.MVC.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/ASP.NET.MVC.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/appsettings.json" beforeDir="false" afterPath="$PROJECT_DIR$/appsettings.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,6 +41,7 @@
       <option value="$PROJECT_DIR$/ClientApp/tsconfig.json" />
       <option value="$PROJECT_DIR$/ClientApp/src/components/BookCard.jsx" />
       <option value="$PROJECT_DIR$/ClientApp/src/index.tsx" />
+      <option value="$PROJECT_DIR$/appsettings.json" />
     </changedPaths>
   </component>
   <component name="ProjectId" id="1vqWxnOnNEsOFw4y23eM6gGAyr9" />
@@ -82,10 +61,17 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Config" />
     <property name="last_opened_file_path" value="$USER_HOME$/WebstormProjects/dummy_server" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="ts.external.directory.path" value="$PROJECT_DIR$/ClientApp/node_modules/typescript/lib" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="node /home/cofitel/WebstormProjects/dummy_server/index.js" />
+    </option>
   </component>
   <component name="RunManager" selected=".NET Launch Settings Profile.ASP.NET.MVC">
     <configuration name="ASP.NET.MVC" type="LaunchSettings" factoryName=".NET Launch Settings Profile">
@@ -128,7 +114,8 @@
       <option name="presentableId" value="Default" />
       <updated>1627290348521</updated>
       <workItem from="1627290521575" duration="1671000" />
-      <workItem from="1627317246582" duration="2583000" />
+      <workItem from="1627317246582" duration="3255000" />
+      <workItem from="1627326924122" duration="769000" />
     </task>
     <task id="LOCAL-00001" summary="first  push">
       <created>1627291776058</created>
@@ -137,7 +124,14 @@
       <option name="project" value="LOCAL" />
       <updated>1627291776058</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="ui embedding">
+      <created>1627322389345</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1627322389345</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -172,6 +166,7 @@
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
     <MESSAGE value="first  push" />
-    <option name="LAST_COMMIT_MESSAGE" value="first  push" />
+    <MESSAGE value="ui embedding" />
+    <option name="LAST_COMMIT_MESSAGE" value="ui embedding" />
   </component>
 </project>
