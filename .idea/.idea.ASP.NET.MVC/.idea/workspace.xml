@@ -4,7 +4,33 @@
     <projectFile>ASP.NET.MVC.csproj</projectFile>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="78091ce5-0430-45c1-9fe7-4d5a6d49add6" name="Default Changelist" comment="" />
+    <list default="true" id="78091ce5-0430-45c1-9fe7-4d5a6d49add6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.ASP.NET.MVC/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.ASP.NET.MVC/.idea/projectSettingsUpdater.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.ASP.NET.MVC/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ASP.NET.MVC/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ClientApp/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/ClientApp/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ClientApp/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/ClientApp/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ClientApp/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/ClientApp/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ClientApp/public/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/ClientApp/public/favicon.ico" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ClientApp/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/ClientApp/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ClientApp/public/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/ClientApp/public/manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ClientApp/src/App.test.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ClientApp/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/ClientApp/src/App.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ClientApp/src/components/Counter.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ClientApp/src/components/FetchData.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ClientApp/src/components/Home.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ClientApp/src/components/Layout.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ClientApp/src/components/NavMenu.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ClientApp/src/components/NavMenu.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ClientApp/src/custom.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ClientApp/src/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/ClientApp/src/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ClientApp/src/registerServiceWorker.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ClientApp/src/store/Counter.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ClientApp/src/store/WeatherForecasts.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ClientApp/src/store/configureStore.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ClientApp/src/store/index.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ClientApp/tsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/ClientApp/tsconfig.json" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,9 +46,23 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/ClientApp/src/index.tsx" root0="FORCE_HIGHLIGHTING" />
+  </component>
   <component name="IdeDocumentHistory">
     <changedPaths>
       <option value="$PROJECT_DIR$/ClientApp/src/store/types.ts" />
+      <option value="$PROJECT_DIR$/ClientApp/src/store/Counter.ts" />
+      <option value="$PROJECT_DIR$/ClientApp/src/App.tsx" />
+      <option value="$PROJECT_DIR$/ClientApp/src/views/Home.jsx" />
+      <option value="$PROJECT_DIR$/ClientApp/src/views/RegisterAuthor.jsx" />
+      <option value="$PROJECT_DIR$/ClientApp/src/views/RegisterBook.jsx" />
+      <option value="$PROJECT_DIR$/ClientApp/src/layouts/MainLayout.jsx" />
+      <option value="$PROJECT_DIR$/ClientApp/src/views/Reader.jsx" />
+      <option value="$USER_HOME$/WebstormProjects/library_ui/tsconfig.json" />
+      <option value="$PROJECT_DIR$/ClientApp/tsconfig.json" />
+      <option value="$PROJECT_DIR$/ClientApp/src/components/BookCard.jsx" />
+      <option value="$PROJECT_DIR$/ClientApp/src/index.tsx" />
     </changedPaths>
   </component>
   <component name="ProjectId" id="1vqWxnOnNEsOFw4y23eM6gGAyr9" />
@@ -42,6 +82,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$/WebstormProjects/dummy_server" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="ts.external.directory.path" value="$PROJECT_DIR$/ClientApp/node_modules/typescript/lib" />
     <property name="vue.rearranger.settings.migration" value="true" />
@@ -87,6 +128,7 @@
       <option name="presentableId" value="Default" />
       <updated>1627290348521</updated>
       <workItem from="1627290521575" duration="1671000" />
+      <workItem from="1627317246582" duration="2583000" />
     </task>
     <task id="LOCAL-00001" summary="first  push">
       <created>1627291776058</created>
@@ -101,7 +143,7 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
-  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -125,6 +167,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
